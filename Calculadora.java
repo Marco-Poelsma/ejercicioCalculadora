@@ -38,7 +38,7 @@ public class Calculadora {
                 case 6:
                     System.out.println("Sortint... ");
                     break;
-                default: // TODO: Desenvolupar default
+                default:
                     System.out.println("Opció no vàlida");
                     break;
             }
